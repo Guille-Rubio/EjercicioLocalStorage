@@ -1,0 +1,2 @@
+# EjercicioLocalStorage
+Ejercicios con localstorage
